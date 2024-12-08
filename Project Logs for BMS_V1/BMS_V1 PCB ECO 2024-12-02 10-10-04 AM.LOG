@@ -1,0 +1,38 @@
+Add Component: Footprint Not Found 5V_EXT
+Add Component: Footprint Not Found CN8_8X2_PADS
+Add Component: Footprint Not Found CN9_15X2_PADS
+Add Component: Footprint Not Found CN10_17X2_PADS
+Add Component: Footprint Not Found CN7_10X2_PADS
+Add Component: Footprint Not Found 282837-2_TYC
+Add Component: Footprint Not Found SO-8EP_DIO
+Add Pin To Net: Unknown Pin: Pin J0-1
+Add Pin To Net: Unknown Pin: Pin J0-2
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-11
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin J1-14
+Add Pin To Net: Unknown Pin: Pin J1-16
+Add Pin To Net: Unknown Pin: Pin J2-19
+Add Pin To Net: Unknown Pin: Pin J2-21
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin J4-12
+Add Pin To Net: Unknown Pin: Pin J4-14
+Add Pin To Net: Unknown Pin: Pin J5-12VIN
+Add Pin To Net: Unknown Pin: Pin J5-GND
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Class Member: Failed to add class member : Component J0 5V_EXT
+Add Class Member: Failed to add class member : Component J1 CN8 CONN HDR 16POS
+Add Class Member: Failed to add class member : Component J2 CN9 CONN HDR 30POS
+Add Class Member: Failed to add class member : Component J3 CN10 CONN HDR 34POS
+Add Class Member: Failed to add class member : Component J4 CN7 CONN HDR 20POS
+Add Class Member: Failed to add class member : Component J5 282837-2
+Add Class Member: Failed to add class member : Component U3 AP64350SP-13

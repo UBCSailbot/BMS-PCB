@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetBQ769P_1 New Net Name=DSG_PIN
+Change Net Name : Old Net Name=NetBQ769P_2 New Net Name=CHG_PIN
+Change Net Name : Old Net Name=NetBQ769P_10 New Net Name=BAT_PIN
+Change Net Name : Old Net Name=NetBQ769P_19 New Net Name=SRN_PIN
+Change Net Name : Old Net Name=NetD1_1 New Net Name=CHG_FET
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=CHG_DSG
