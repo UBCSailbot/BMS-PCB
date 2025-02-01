@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT- Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Change Class Name : Old Net Name=BMS_V1 New Net Name=BMS_V3
+Added Member To Class: ClassName=BMS_V3 Member=Component J8 39970-0102
