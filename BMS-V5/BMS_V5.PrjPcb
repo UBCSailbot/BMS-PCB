@@ -87,23 +87,6 @@ GenerateClassCluster=0
 DocumentUniqueId=AQQSEYWL
 
 [Document3]
-DocumentPath=..\..\..\..\bugde\Downloads\LIB_39970-0102\39970-0102\Altium\39970-0102.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
 DocumentPath=..\..\..\..\bugde\Downloads\LIB_39970-0102\39970-0102\Altium\399700102.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,7 +103,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANFLMOSW
 
-[Document5]
+[Document4]
 DocumentPath=..\..\..\..\bugde\University\UBC\Sailbot\AltiumDesigner\BQ7692006PW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,6 +119,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\..\..\..\bugde\Downloads\LIB_39970-0102\39970-0102\Altium\39970-0102.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AHVDOVVY
 
 [Document6]
 DocumentPath=..\..\..\..\bugde\University\UBC\Sailbot\AltiumDesigner\BQ7692006PW.SchLib
